@@ -1,0 +1,12 @@
+{
+  "name": "elektralaser",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
